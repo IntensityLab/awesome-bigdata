@@ -530,6 +530,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Splunk](https://www.splunk.com/) - analyzer for machine-generated data.
 * [Sumo Logic](https://www.sumologic.com/) - cloud based analyzer for machine-generated data.
 * [Talend](http://www.talend.com/products/big-data/) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
+* [ERD Lab](https://app.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ## Search engine and framework
 
